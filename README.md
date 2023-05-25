@@ -720,6 +720,6 @@ styles.css
 
 ## HTML VALIDATOR:
 
-![Html validator](./out(valid).png)
+![Html validator](./ex7(valid).png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
